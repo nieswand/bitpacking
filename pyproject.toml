@@ -4,15 +4,18 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "bitpacking"
-version = "0.0.1"
+version = "0.0.2"
 description = "Bit-packing and unpacking integer fields"
-readme = "README.md"
 authors = [
     { name="Simon Nieswand", email="simon.nieswand@gmail.com" }
 ]
-license = { file = "LICENSE" }
+readme = "README.md"
 requires-python = ">=3.7"
 dependencies = []
+license = { text = "GPL-3.0-only" }
+classifiers = [
+    "Programming Language :: Python :: 3",
+]
 
 [project.urls]
 Homepage = "https://github.com/nieswand/bitpacking"
