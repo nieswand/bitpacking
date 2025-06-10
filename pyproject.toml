@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "bitpacking"
-version = "0.0.2"
+version = "0.1.0"
 description = "Bit-packing and unpacking integer fields"
 authors = [
     { name="Simon Nieswand", email="simon.nieswand@gmail.com" }
