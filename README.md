@@ -1,13 +1,11 @@
-<div align="center">
-<h1>bitpacking</h1>
+# bitpacking
 
 [Bit-packing](https://www.cs.cornell.edu/courses/cs3410/2024fa/notes/bitpack.html) and unpacking integer fields.
 
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/bitpacking?style=flat-square)
 ![PyPI](https://img.shields.io/pypi/v/bitpacking?style=flat-square)
-![PyPI - Downloads](https://img.shields.io/pypi/dm/bitpacking?style=flat-square)
-![Commits since latest release](https://img.shields.io/github/commits-since/nieswand/bitpacking/latest?include_prereleases&style=flat-square)
-</div>
+<!-- ![PyPI - Downloads](https://img.shields.io/pypi/dm/bitpacking?style=flat-square) -->
+<!--![Commits since latest release](https://img.shields.io/github/commits-since/nieswand/bitpacking/latest?include_prereleases&style=flat-square) -->
 
 ## Installation
 bitpacking is available on pypi:
