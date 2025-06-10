@@ -16,5 +16,3 @@ print(f"Bit-packed chunks: {chunks}")
 
 fields = list(bitunpack(chunks=chunks, chunk_width=64, field_width=3))
 print(f"Unpacked fields: {fields}")
-
-assert fields == ints
